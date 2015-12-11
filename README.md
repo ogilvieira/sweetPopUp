@@ -1,6 +1,6 @@
 # sweetPopUp
 Easy popup generator
-´´´javascript
+```javascript
 $.sweetPopUp({
 	imageUrl: "",
 	link: "",
@@ -26,4 +26,4 @@ $.sweetPopUp({
 		minute: 10
 	}
 });
-´´´
+```
